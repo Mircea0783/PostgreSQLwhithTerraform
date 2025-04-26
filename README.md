@@ -1,5 +1,5 @@
 # PostgreSQLwhithTerraform
-nfo about using PostgreSQL with Terraform
+info about using PostgreSQL with Terraform
 
 
 To manage a PostgreSQL database using Terraform as Infrastructure as Code (IaC), you can use Terraform providers like aws (for Amazon RDS PostgreSQL), google (for Google Cloud SQL), or postgresql (for direct PostgreSQL server management). Below, I’ll focus on provisioning a PostgreSQL database on AWS RDS using Terraform, as it’s a common use case, and briefly cover the postgresql provider for direct database configuration.
